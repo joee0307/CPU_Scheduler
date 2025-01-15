@@ -20,7 +20,7 @@ output.txt: The output file where the results of the scheduling are written.
 # How to Run the Project
 To run the project, follow these steps:
 
-Clone the repository: git clone https://github.com/Deepak42-y/CPU-Scheduler.git
+Clone the repository: git clone https://github.com/joee0307/CPU_Scheduler
 Compile the code: g++ -o cpu_scheduler cpu_scheduler.cpp
 Run the executable: ./scheduler input.txt output.txt
 
